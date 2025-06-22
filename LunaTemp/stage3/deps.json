@@ -1,0 +1,75 @@
+{
+  "ignores": [
+    "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs",
+    "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs",
+    "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs",
+    "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs",
+    "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs",
+    "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs"
+  ],
+  "groups": [
+    [
+      "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Outline by The Developer/Example Scene/Example Scene/O_ReviewCam.cs",
+      "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Outline by The Developer/Outline/O_CustomImageEffect.cs"
+    ],
+    [
+      "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs"
+    ],
+    [
+      "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleEPOOutline.cs"
+    ],
+    [
+      "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs"
+    ],
+    [
+      "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs"
+    ],
+    [
+      "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs"
+    ],
+    [
+      "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs"
+    ],
+    [
+      "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs"
+    ],
+    [
+      "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs"
+    ],
+    [
+      "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/CameraFollow.cs",
+      "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs",
+      "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/EndTrigger.cs",
+      "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/Player.cs"
+    ],
+    [
+      "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/EndForce.cs"
+    ],
+    [
+      "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/RoadBlock.cs"
+    ],
+    [
+      "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Shaders/SimpleOutline.cs"
+    ],
+    [
+      "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/SimpleToon/Model/Kawaii Slimes/Cameras/Scripts/AbstractTargetFollower.cs",
+      "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/SimpleToon/Model/Kawaii Slimes/Cameras/Scripts/PivotBasedCameraRig.cs",
+      "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/SimpleToon/Model/Kawaii Slimes/Cameras/Scripts/FreeLookCam.cs"
+    ],
+    [
+      "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/SimpleToon/Scripts/SelfRotation.cs"
+    ],
+    [
+      "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/TutorialInfo/Scripts/Readme.cs"
+    ],
+    [
+      "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Properties/AssemblyInfo.cs"
+    ],
+    [
+      "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Sources/OtherDummyScript.cs"
+    ],
+    [
+      "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+    ]
+  ]
+}

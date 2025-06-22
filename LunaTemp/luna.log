@@ -1,0 +1,277 @@
+report@config:load 37.52
+Authorized using stored user info.
+report@account:authorize 26.14
+Exporting assets from Unity........
+
+[ Stage1 ] Assets exported from Unity and staged for further processing
+report@unity:export 5140.82
+report@config:load 29.44
+Found custom rules for texture Assets/Sprites/btn_try_again.png
+  {"maxWidth":900,"maxHeight":900,"format":"png32","compression":"quantSize","quality":65,"script":"","ext":"","name":"Assets/Sprites/btn_try_again.png","isOverride":true}
+Found custom rules for texture Assets/Sprites/logo.png
+  {"maxWidth":900,"maxHeight":900,"format":"png32","compression":"quantSize","quality":65,"script":"","ext":"","name":"Assets/Sprites/logo.png","isOverride":true}
+Found custom rules for texture Assets/Sprites/bg.png
+  {"maxWidth":1900,"maxHeight":1900,"format":"png32","compression":"quantSize","quality":65,"script":"","ext":"","name":"Assets/Sprites/bg.png","isOverride":true}
+Resources:
+{}
+report@assets:stage2 4145.96
+report@assets:stage3 183.79
+[ Stage2 ] Assets postprocessed and bundled successfully
+report@config:unity 0.16
+report@config:load 22.63
+report@config:unity 0.22
+report@code:compose 107.56
+Authorized using stored user info.
+report@account:authorize 4.94
+Microsoft (R) Build Engine version 16.10.1 for Mono
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+Build started 6/23/2025 1:07:24 AM.
+
+Project "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj" on node 1 (Rebuild target(s)).
+
+CoreClean:
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/UnityScriptsCompiler.dll".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/UnityScriptsCompiler.pdb".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.dll".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.Html5.dll".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.WebGL.dll".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/DOTween.dll".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Newtonsoft.Json.dll".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.Core.dll".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.dom.dll".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.es5.dll".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.scripthost.dll".
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/UnityEngine.dll".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/UnityEngine.UI.dll".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/UnityEngine.UniversalRenderPipeline.dll".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.xml".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.Html5.xml".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.WebGL.xml".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Newtonsoft.Json.xml".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.Core.xml".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.dom.xml".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.es5.xml".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.scripthost.xml".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/TextMeshPro.dll".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/JetBrains.dll".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/Scripts.csproj.AssemblyReference.cache".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/Scripts.csproj.CoreCompileInputs.cache".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/Scripts.csproj.CopyComplete".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/UnityScriptsCompiler.dll".
+
+  Deleting file "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/UnityScriptsCompiler.pdb".
+
+GenerateTargetFrameworkMonikerAttribute:
+Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+
+CoreCompile:
+
+  /Library/Frameworks/Mono.framework/Versions/6.12.0/lib/mono/msbuild/Current/bin/Roslyn/csc.exe /noconfig /nowarn:CS0626,1701,1702 /fullpaths /nostdlib+ /errorreport:prompt /warn:4 /define:UNITY_LUNA;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_2022;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2022_3;UNITY_2022_3_53 /highentropyva+ /reference:"/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Bridge.Core.17.9.42-luna/lib/net40/Bridge.dll" /reference:"/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Bridge.Html5.17.9.0/lib/net40/Bridge.Html5.dll" /reference:"/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Bridge.WebGL.1.22.0/lib/net40/Bridge.WebGL.dll" /reference:"/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/DOTween.1.2.705/lib/net40/DOTween.dll" /reference:"/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/com.unity.ide.rider/3.0.0/JetBrains.dll" /reference:"/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Bridge.Newtonsoft.Json.1.16.0/lib/net40/Newtonsoft.Json.dll" /reference:"/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Retyped.Core.1.6.6733/lib/net40/Retyped.Core.dll" /reference:"/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Retyped.dom.2.8.6733/lib/net40/Retyped.dom.dll" /reference:"/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Retyped.es5.2.8.6733/lib/net40/Retyped.es5.dll" /reference:"/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Retyped.scripthost.2.8.6733/lib/net40/Retyped.scripthost.dll" /reference:"/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/com.unity.textmeshpro/3.0.6/TextMeshPro.dll" /reference:"/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Vendor/UnityEngine.dll" /reference:"/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/com.unity.ui/1.2.1/UnityEngine.UI.dll" /reference:"/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/com.unity.urp/7.6/UnityEngine.UniversalRenderPipeline.dll" /debug+ /debug:full /optimize- /out:obj/Debug/UnityScriptsCompiler.dll /subsystemversion:6.00 /target:library /warnaserror- /utf8output /langversion:8 "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Outline by The Developer/Example Scene/Example Scene/O_ReviewCam.cs" "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Outline by The Developer/Outline/O_CustomImageEffect.cs" /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleEPOOutline.cs /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/CameraFollow.cs /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/EndForce.cs /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/EndTrigger.cs /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/Player.cs /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/RoadBlock.cs /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Shaders/SimpleOutline.cs "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/SimpleToon/Model/Kawaii Slimes/Cameras/Scripts/AbstractTargetFollower.cs" "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/SimpleToon/Model/Kawaii Slimes/Cameras/Scripts/FreeLookCam.cs" "/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/SimpleToon/Model/Kawaii Slimes/Cameras/Scripts/PivotBasedCameraRig.cs" /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/SimpleToon/Scripts/SelfRotation.cs /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/TutorialInfo/Scripts/Readme.cs Properties/AssemblyInfo.cs Sources/OtherDummyScript.cs "obj/Debug/.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+
+  Using shared compilation with compiler from directory: /Library/Frameworks/Mono.framework/Versions/6.12.0/lib/mono/msbuild/Current/bin/Roslyn
+
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(2,7): warning CS0105: The using directive for 'System.Collections' appeared previously in this namespace [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(11,35): warning CS0649: Field 'GM.objectsOfPlayer' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(34,29): warning CS0649: Field 'GM.mainCamera' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/Player.cs(15,32): warning CS0649: Field 'Player.propeller' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(36,28): warning CS0649: Field 'GM.camSizeHor' is never assigned to, and will always have its default value 0 [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(10,35): warning CS0649: Field 'GM.cameraFollow' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(23,33): warning CS0649: Field 'GM.Fail' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(29,32): warning CS0649: Field 'GM.brakeSound' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/EndTrigger.cs(7,25): warning CS0649: Field 'EndTrigger.gm' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/RoadBlock.cs(14,32): warning CS0649: Field 'RoadBlock.breakSound' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/Player.cs(8,29): warning CS0649: Field 'Player.powerSlider' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/Player.cs(14,34): warning CS0649: Field 'Player.wheels' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(28,32): warning CS0649: Field 'GM.failSound' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/RoadBlock.cs(13,34): warning CS0649: Field 'RoadBlock.audioSource' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/Player.cs(13,28): warning CS0649: Field 'Player.maxSpeed' is never assigned to, and will always have its default value 0 [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(27,34): warning CS0649: Field 'GM.propellerAudio' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(17,30): warning CS0649: Field 'GM.RegSlider' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/Player.cs(12,28): warning CS0649: Field 'Player.speed' is never assigned to, and will always have its default value 0 [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(35,28): warning CS0649: Field 'GM.camSizeVer' is never assigned to, and will always have its default value 0 [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(26,34): warning CS0649: Field 'GM.audioSource' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(16,33): warning CS0649: Field 'GM.TutorialSlider' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(24,33): warning CS0649: Field 'GM.CTA' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/RoadBlock.cs(9,28): warning CS0649: Field 'RoadBlock.fallTime' is never assigned to, and will always have its default value 0 [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/Player.cs(18,37): warning CS0649: Field 'Player.windParticleSystem' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/RoadBlock.cs(8,28): warning CS0649: Field 'RoadBlock.waitingTime' is never assigned to, and will always have its default value 0 [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/Player.cs(21,34): warning CS0649: Field 'Player.propellerAudio' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(22,33): warning CS0649: Field 'GM.Fader' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Shaders/SimpleOutline.cs(21,31): warning CS0649: Field 'SimpleOutline.outlineMaterial' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(21,30): warning CS0649: Field 'GM.HiddingImages' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/EndForce.cs(7,28): warning CS0649: Field 'EndForce.force' is never assigned to, and will always have its default value 0 [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(12,33): warning CS0649: Field 'GM.Player' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+/Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/Player.cs(10,32): warning CS0649: Field 'Player.rb' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+
+_CopyFilesMarkedCopyLocal:
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/com.unity.ide.rider/3.0.0/JetBrains.dll" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/JetBrains.dll".
+
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Bridge.Html5.17.9.0/lib/net40/Bridge.Html5.dll" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.Html5.dll".
+
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Bridge.WebGL.1.22.0/lib/net40/Bridge.WebGL.dll" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.WebGL.dll".
+
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/DOTween.1.2.705/lib/net40/DOTween.dll" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/DOTween.dll".
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Bridge.Core.17.9.42-luna/lib/net40/Bridge.dll" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.dll".
+
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Bridge.Newtonsoft.Json.1.16.0/lib/net40/Newtonsoft.Json.dll" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Newtonsoft.Json.dll".
+
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Retyped.dom.2.8.6733/lib/net40/Retyped.dom.dll" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.dom.dll".
+
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Retyped.scripthost.2.8.6733/lib/net40/Retyped.scripthost.dll" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.scripthost.dll".
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Retyped.es5.2.8.6733/lib/net40/Retyped.es5.dll" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.es5.dll".
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/com.unity.textmeshpro/3.0.6/TextMeshPro.dll" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/TextMeshPro.dll".
+
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Vendor/UnityEngine.dll" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/UnityEngine.dll".
+
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/com.unity.ui/1.2.1/UnityEngine.UI.dll" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/UnityEngine.UI.dll".
+
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/com.unity.urp/7.6/UnityEngine.UniversalRenderPipeline.dll" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/UnityEngine.UniversalRenderPipeline.dll".
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Bridge.Core.17.9.42-luna/lib/net40/Bridge.xml" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.xml".
+
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Bridge.WebGL.1.22.0/lib/net40/Bridge.WebGL.xml" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.WebGL.xml".
+
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Retyped.Core.1.6.6733/lib/net40/Retyped.Core.dll" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.Core.dll".
+
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Bridge.Html5.17.9.0/lib/net40/Bridge.Html5.xml" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Bridge.Html5.xml".
+
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Retyped.Core.1.6.6733/lib/net40/Retyped.Core.xml" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.Core.xml".
+
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Bridge.Newtonsoft.Json.1.16.0/lib/net40/Newtonsoft.Json.xml" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Newtonsoft.Json.xml".
+
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Retyped.dom.2.8.6733/lib/net40/Retyped.dom.xml" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.dom.xml".
+
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Retyped.es5.2.8.6733/lib/net40/Retyped.es5.xml" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.es5.xml".
+
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/packages/Retyped.scripthost.2.8.6733/lib/net40/Retyped.scripthost.xml" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/Retyped.scripthost.xml".
+
+  Creating "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/Scripts.csproj.CopyComplete" because "AlwaysCreate" was specified.
+
+CopyFilesToOutputDirectory:
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/UnityScriptsCompiler.dll" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/UnityScriptsCompiler.dll".
+
+  Scripts -> /Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/UnityScriptsCompiler.dll
+
+  Copying file from "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/UnityScriptsCompiler.pdb" to "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/bin/Debug/UnityScriptsCompiler.pdb".
+
+BridgeNetCompilerTask:
+  Bridge started
+
+      To enable detailed logging, configure "logging" in bridge.json.
+
+      https://github.com/bridgedotnet/Bridge/wiki/global-configuration#logging
+
+  Bridge done
+
+Done Building Project "/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj" (Rebuild target(s)).
+
+
+
+Build succeeded.
+
+
+
+"/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj" (Rebuild target) (1) ->
+
+(CoreCompile target) -> 
+
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(2,7): warning CS0105: The using directive for 'System.Collections' appeared previously in this namespace [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(11,35): warning CS0649: Field 'GM.objectsOfPlayer' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(34,29): warning CS0649: Field 'GM.mainCamera' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/Player.cs(15,32): warning CS0649: Field 'Player.propeller' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(36,28): warning CS0649: Field 'GM.camSizeHor' is never assigned to, and will always have its default value 0 [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(10,35): warning CS0649: Field 'GM.cameraFollow' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(23,33): warning CS0649: Field 'GM.Fail' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(29,32): warning CS0649: Field 'GM.brakeSound' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/EndTrigger.cs(7,25): warning CS0649: Field 'EndTrigger.gm' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/RoadBlock.cs(14,32): warning CS0649: Field 'RoadBlock.breakSound' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/Player.cs(8,29): warning CS0649: Field 'Player.powerSlider' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/Player.cs(14,34): warning CS0649: Field 'Player.wheels' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(28,32): warning CS0649: Field 'GM.failSound' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/RoadBlock.cs(13,34): warning CS0649: Field 'RoadBlock.audioSource' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/Player.cs(13,28): warning CS0649: Field 'Player.maxSpeed' is never assigned to, and will always have its default value 0 [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(27,34): warning CS0649: Field 'GM.propellerAudio' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(17,30): warning CS0649: Field 'GM.RegSlider' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/Player.cs(12,28): warning CS0649: Field 'Player.speed' is never assigned to, and will always have its default value 0 [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(35,28): warning CS0649: Field 'GM.camSizeVer' is never assigned to, and will always have its default value 0 [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(26,34): warning CS0649: Field 'GM.audioSource' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(16,33): warning CS0649: Field 'GM.TutorialSlider' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(24,33): warning CS0649: Field 'GM.CTA' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/RoadBlock.cs(9,28): warning CS0649: Field 'RoadBlock.fallTime' is never assigned to, and will always have its default value 0 [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/Player.cs(18,37): warning CS0649: Field 'Player.windParticleSystem' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/RoadBlock.cs(8,28): warning CS0649: Field 'RoadBlock.waitingTime' is never assigned to, and will always have its default value 0 [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/Player.cs(21,34): warning CS0649: Field 'Player.propellerAudio' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(22,33): warning CS0649: Field 'GM.Fader' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Shaders/SimpleOutline.cs(21,31): warning CS0649: Field 'SimpleOutline.outlineMaterial' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(21,30): warning CS0649: Field 'GM.HiddingImages' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/EndForce.cs(7,28): warning CS0649: Field 'EndForce.force' is never assigned to, and will always have its default value 0 [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/GM.cs(12,33): warning CS0649: Field 'GM.Player' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+  /Users/maximoulitzky/Documents/FreePlay/FreePlayTestGame/LunaTemp/stage3/processed-scripts/Assets/Scripts/Player.cs(10,32): warning CS0649: Field 'Player.rb' is never assigned to, and will always have its default value null [/Users/maximoulitzky/Documents/Luna Plugins 2/6.3.0/pipeline/templates/LunaCompiler/Scripts/Scripts.csproj]
+
+
+    32 Warning(s)
+    0 Error(s)
+
+
+
+Time Elapsed 00:00:25.41
+
+Source code compiled successfully!
+Diagnostics gathered successfully
+report@code:build 33408.26
+report@diagnostics:verify 2.82
+report@diagnostics:upload 2801.36
+report@code:stage 6313.58
+[ Stage3 ] Code compiled and bundled successfully.
+report@code:bundle 42668.51
+report@package:stage 138265.62
+[ Stage4 ] Target platform: playground
+[ Stage4 ] Package bundled successfully
+report@assets:stats 1.18
